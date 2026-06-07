@@ -35,7 +35,7 @@ Topics covered:
 - Tablespaces, Segments, Extents, and Blocks
 - Alert Log, Trace Files, and ADRCI
 
-## Tools Used
+ ## Tools Used
 
 - Oracle Database 19c
 - Oracle Linux 8.10
